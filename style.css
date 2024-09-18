@@ -1,0 +1,13 @@
+.error-msg {
+    color: red;
+    text-align: center;
+  }
+  
+  .hide {
+    display: none;
+  }
+
+
+  *{
+    background-color: rgb(247, 247, 118);
+  }
